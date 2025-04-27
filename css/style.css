@@ -373,6 +373,7 @@ h3.my-profession{
     .home .home-img{
         display: flex;
         margin: 0 auto;
+        max-width: 1000%;
     }
 }
 
@@ -1160,7 +1161,7 @@ h3.my-profession{
     .home .home-img{
     display: flex;
     margin: 0 auto;
-    
+    max-width: 100%;
    }
 }
 
