@@ -369,6 +369,13 @@ h3.my-profession{
     height: 400px;
 }
 
+@media screen and (max-width: 600px) {
+    .home .home-img{
+        display: flex;
+        margin: 0 auto;
+    }
+}
+
 /* About  */
 .about .about-content{
     flex: 0 0 100%;
