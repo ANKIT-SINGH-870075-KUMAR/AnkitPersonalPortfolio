@@ -1,6 +1,6 @@
 /* typing animation */ 
 var typed = new Typed(".typing",{
-    strings:["Data Analyst","Data Analyst","Data Analyst","Data Analyst"],
+    strings:["Data Analyst","Business Analyst","Research Analyst","Data Scientist", "Analytics Specialist"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
